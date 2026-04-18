@@ -1,0 +1,4 @@
+#ifndef PARSEOPTS_HPP
+#define PARSEOPTS_HPP
+
+#endif // PARSEOPTS_HPP

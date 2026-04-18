@@ -1,0 +1,30 @@
+# Directories
+
+_deps/
+CMakeFiles/
+.vs/
+ALL_BUILD.dir/
+Debug/
+ComicConvert.dir/
+INSTALL.dir/
+x64/
+ZERO_CHECK.dir/
+logs/
+destination/
+states/
+
+# Files
+
+cmake_install.cmake
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+ComicConvert
+*.filters
+*.user
+*.vcxproj
+*.slnx
+*.sln
+*.exe
+*.json
